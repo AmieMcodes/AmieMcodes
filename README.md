@@ -1,29 +1,83 @@
-# 👋 Hi, I’m Amie Marse
+👋 Hi, I’m Amie Marse
 
-I’m a React-focused full-stack developer who builds **real-world AI systems** with an emphasis on reliability, thoughtful architecture, and human-centered workflows.
+I build AI-powered applications that are designed to behave reliably in real-world use — not just in demos.
 
-I’m especially interested in systems where technology needs to behave **predictably and responsibly** — not just impress in a demo.
+My work focuses on systems where AI needs to be **predictable, grounded, and actually useful**, especially in environments where trust matters.
 
-I currently live in Paraguay and am working on long-horizon projects that blend software, sustainability, and care-focused design.
-
----
-
-## What I build
-
-* AI-assisted applications with **deterministic logic** where it matters
-* Voice-enabled and visual preview systems
-* Tools that reduce uncertainty and support better decisions
-* Software designed for **real usage, QA, and iteration** — not hype
-
-I use AI as an enhancement layer, not a replacement for clear system design.
+I’m a React-focused full-stack developer working across frontend, backend, and AI integration.
 
 ---
 
-## Current Focus (2025– )
+## 🚀 Currently taking on select client work
 
-At the moment, I am **not taking on freelance or contract projects**.
+I’m available for projects where stability and user experience matter:
 
-My time and energy are intentionally dedicated to building and maintaining two aligned projects:
+- AI training bots (structured assistants with guardrails + memory)
+- AI workflow tools (visualizers, decision tools, automation systems)
+- Voice-enabled AI systems
+- App builds + App Store / Play Store submission support
+- Debugging and stabilizing existing AI apps
+
+I focus on practical, well-scoped builds — helping clients get working systems without unnecessary complexity or wasted time.
+
+---
+
+## 🧠 What I build
+
+- AI-assisted applications with **controlled behavior (not open-ended chaos)**
+- Tools that reduce uncertainty and help users make decisions
+- Systems designed for **real usage, QA, and iteration**
+- Interfaces that feel calm, clear, and trustworthy
+
+AI is used as an enhancement layer — not a replacement for solid system design.
+
+---
+
+## 🌱 Current Focus (2025–)
+
+I’m currently focused on building systems where AI needs to feel **calm, predictable, and genuinely useful in daily life**.
+
+This work centers on two aligned tracks:
+
+---
+
+### 📖 Mat44
+
+A scripture companion built for real life.
+
+Mat44 is a personalized scripture app designed to help people stay in the Word daily — without gamification, pressure, or content overload.
+
+**Live:** April 2026  
+**App Stores:** May 2026
+
+This system is designed to:
+- adapt scripture to a user’s life context over time
+- maintain continuity (not one-off interactions)
+- operate within strict guardrails (no hallucination, no AI authority)
+- reinforce trust through consistent behavior
+
+---
+
+### 🧪 Family-Centered AI Learning Companion (In Development)
+
+A structured AI system designed to support real-life homeschooling environments — especially for families with limited time, attention constraints, or special needs.
+
+This is not an open-ended “AI tutor.”  
+It is a **controlled system** designed to stay useful and predictable.
+
+Focus areas:
+- consistent, on-topic responses (no drift)
+- age-appropriate tone and content boundaries
+- parent-first design (AI supports, never replaces)
+- structured learning flows instead of open-ended chat
+
+Built with real-world constraints in mind — where clarity and reliability matter more than complexity.
+
+---
+
+Together, these projects explore a simple idea:
+
+**AI is most valuable when it behaves reliably in real environments.**
 
 ---
 
@@ -31,81 +85,65 @@ My time and energy are intentionally dedicated to building and maintaining two a
 
 **Sãso · Alegría · Morada**
 
-Casa de SAM is a long-horizon project building toward a **permanent, dignified home in Paraguay for adults with lifelong support needs** — individuals who will never live independently and require full daily care and supervision.
+A long-horizon project building toward a permanent, dignified home in Paraguay for adults with lifelong support needs.
 
-This is not a startup, a program, or an institution.
-It is a home — designed to last for generations.
-
-* Focus: calm, safety, permanence, dignity
-* Timeline: opening planned for **March 16, 2035**
-* Status: research, planning, legal groundwork, sustainability modeling
-
-The public website and documentation for Casa de SAM are intentionally built with restraint, clarity, and longevity in mind.
+This is not a short-term initiative — it is designed for permanence, stability, and care.
 
 ---
 
-## 📖 Mat44
+## ⚙️ Tech Stack
 
-*A scripture companion built for real life*
-
-Mat44 is a quiet, personalized scripture companion app designed to help people stay in the Word daily — without gamification, pressure, or content overload.
-
-The app focuses on:
-
-* daily scripture that adapts to a user’s life context
-* reflection and continuity over consumption
-* memory and personalization instead of streaks
-* guardrails that redirect users toward scripture, prayer, and trusted leaders rather than AI authority
-
-Mat44 is built with a calm UX philosophy and minimal motion, prioritizing **spiritual presence over productivity**.
+React · Vite · Tailwind  
+Firebase (Auth, Firestore, Storage)  
+Node.js  
+Netlify  
+Voice AI (ElevenLabs)  
+Payhip / Stripe integrations  
 
 ---
 
-## Tech stack
+## 🧩 Selected Work
 
-React · Vite · Tailwind
-Node.js · Firebase (Auth, Firestore, Storage)
-Netlify
-Voice AI (ElevenLabs)
-Product & payment tooling (Payhip, Stripe integrations)
+### AI Restaurant Call Center
+A deterministic, voice-enabled ordering system with full call simulation and debugging tools.
 
----
-
-## Selected prior work
-
-### **AI Restaurant Call Center**
-
-A deterministic, voice-enabled restaurant ordering system with call simulation, order state modeling, and developer debugging tools.
-
-Built to prioritize reliability, auditability, and real-world call flow over generative unpredictability.
+Built to prioritize reliability, traceability, and real-world usability.
 
 ---
 
-### **Tint & Ceramic Visualizer — Workflow Demo**
-
-A sanitized portfolio demo showcasing a **user-centered visual preview workflow** for local service businesses.
-
-The goal is simple: reduce uncertainty, build confidence, and help customers understand what they’re buying *before* money changes hands.
+### Tint & Ceramic Visualizer — Workflow Demo
+A user-facing visual preview system that helps customers understand what they’re buying before purchase.
 
 Engineering focus:
-
-* predictable, repeatable image processing
-* clear separation between UI and backend logic
-* guardrails and fallbacks that keep the experience stable
-* AI used as an enhancement — not the centerpiece
-
----
-
-### **No Shame AI**
-
-A collection of practical AI tools and workflows designed to support real life and real constraints, especially for non-technical users.
+- predictable, repeatable outputs
+- stable UX under edge cases
+- clear separation between UI and logic
+- AI used only where it adds clarity
 
 ---
 
-## A note on this GitHub
+### No Shame AI
 
-This profile exists to share **code, architecture, and problem-solving approaches**.
+A collection of practical AI tools and workflows designed to support real life — especially for non-technical users navigating AI for the first time.
 
-Public repositories are intentionally sanitized and brand-agnostic, with an emphasis on **how systems are designed**, not who they were built for.
+---
 
-If something here resonates, you’re welcome to explore the code.
+## 💡 Philosophy
+
+AI should:
+- support human decisions, not replace them  
+- behave consistently, not unpredictably  
+- reduce stress, not increase it  
+- earn trust over time  
+
+That’s what I build.
+
+---
+
+## 📌 A note on this GitHub
+
+This profile focuses on sharing architecture, systems thinking, and real-world implementations.
+
+Projects are intentionally structured to highlight **how they work**, not just what they do.
+
+If something here aligns with what you're building, feel free to reach out.
