@@ -87,7 +87,7 @@ Together, these projects explore a simple idea:
 
 A long-horizon project building toward a permanent, dignified home in Paraguay for adults with lifelong support needs.
 
-This is not a short-term initiative — it is designed for permanence, stability, and care.
+This is not a short-term initiative — it is designed for permanence, stability, and care. My son has profound autism and this future home is for him and others like him.
 
 ---
 
